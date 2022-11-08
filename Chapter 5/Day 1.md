@@ -1,7 +1,7 @@
 # Quests
 1. List all the possible transaction status codes and what each of them mean.
     - status code 0 : Unknown
-    - status cod 1 : Transaction Pending
+    - status code 1 : Transaction Pending
     - status code 2 : Finalized
     - status code 3 : Executed
     - status code 4 : Sealed
