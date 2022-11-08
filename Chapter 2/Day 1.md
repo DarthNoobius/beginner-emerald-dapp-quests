@@ -6,7 +6,7 @@ The backend is where the infromation displayed on the frontend is picked from. T
 As the name suggests, global styling affects everything written in the file. The styles don’t need to be imported or called, they are applied automatically when the file is run. Module styling only applies to files in which the styling module is imported. If the module is not called, it will not be applied.
 
 3. Take a screenshot of the running application and upload it to your quest submissions.  
-![](https://github.com/DarthNoobius/emerald--dapp-quests/blob/master/Chapter%202/Images/Day%201%20web%20page.png)
+![](https://github.com/DarthNoobius/beginner-emerald-dapp-quests/blob/main/Chapter%202/Images/Day%201%20web%20page.png)
 web page.png
 
 
