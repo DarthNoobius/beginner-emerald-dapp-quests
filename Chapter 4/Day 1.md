@@ -20,4 +20,4 @@
     ```
 
 6. What does fcl.currentUser.subscribe(setUser); do?  
-    Sets the `user` variable to the currentUser and make sure this value is reatianed even when the page is refreshed.
+   Sets the `user` variable to the currentUser and make sure this value is reatianed even when the page is refreshed.
