@@ -10,5 +10,5 @@ As the name suggests, global styling affects everything written in the file. The
 web page.png
 
 
-4. Upload the link to your public GitHub repository.
+4. Upload the link to your public GitHub repository.  
 https://github.com/DarthNoobius/beginner-emerald-dapp
