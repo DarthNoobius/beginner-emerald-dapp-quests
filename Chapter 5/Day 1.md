@@ -17,7 +17,7 @@
   This function gives us the value of the new status code of a transaction, which is stored in the res object, everytime the status of the transaction changes such as     from status 3(executed) to status 4 (sealed)
   
 4. Make at least 3 changes to the styling of the application. It can be anything (part of this quest is being creative!). List the 3 changes and point them out in a        screenshot.  
-  ![](https://github.com/DarthNoobius/emerald--dapp-quests/blob/master/Chapter%205/Images/Day%205%20webpage.png)
+  ![](https://github.com/DarthNoobius/beginner-emerald-dapp-quests/blob/main/Chapter%205/Images/Day%205%20webpage.png)
 + Buttons have a new hover graphic.
 + The greeting and number values are displayde at the bottom
 + The dapp has different colors
