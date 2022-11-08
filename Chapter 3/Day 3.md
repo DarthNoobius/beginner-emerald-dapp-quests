@@ -18,6 +18,5 @@ Changing variable.png
 Reading new variable.png
 
 5. Go to https://flow-view-source.com/testnet/. Where it says "Account", paste in the Flow address you generated and click "Go". On the left hand side, you should see your "HelloWorld" contract and your new contract. Isn't it so cool to see them live on Testnet? Then, send the URL to the page.
-EXAMPLE: https://flow-view-source.com/testnet/account/0x90250c4359cebac7/
-
-https://flow-view-source.com/testnet/account/0x8e56d24cc7f80589
+EXAMPLE: https://flow-view-source.com/testnet/account/0x90250c4359cebac7/  
+  https://flow-view-source.com/testnet/account/0x8e56d24cc7f80589
