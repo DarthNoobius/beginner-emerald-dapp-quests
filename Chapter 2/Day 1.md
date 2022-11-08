@@ -1,3 +1,4 @@
+# Quests
 1. What is the difference between frontend and backend? Can you provide a real life example? Note: You can't use the one in this chapter.  
 The frontend is displayed to the user of an application or website and is where their interactions happen. For example, when you log into amazon, the frontend is where all the items are displayed.
 The backend is where the infromation displayed on the frontend is picked from. This is where the complicated processes such as accessing databases is done. If this was done on the front end, it would affect the aesthetics and loading times of the applications.
