@@ -11,4 +11,4 @@ web page.png
 
 
 4. Upload the link to your public GitHub repository.
-https://github.com/DarthNoobius/emerald--dapp-quests
+https://github.com/DarthNoobius/beginner-emerald-dapp
