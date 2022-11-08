@@ -8,7 +8,7 @@
    - fcl.authenticate: logs the user in
    - fcl.unauthenticate: logs the user out
 
-3. Why did we make a config.js file? What does it do?
+3. Why did we make a config.js file? What does it do?  
    This file enables the dapp to be able to connect to the Flow blockchain by showing it whether to connect to mainnet or testnet and the wallets that are available. It    does this by using the Flow Client Library (FCL)
 
 4. What does our useEffect do?   
