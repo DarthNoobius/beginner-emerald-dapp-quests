@@ -5,7 +5,7 @@
 - Create a `<p>` tag after the `<div className={styles.flex}>` tag
 - Put the greeting variable inside of that <p> tag. This will make the result of your script show on your webpage! It should look something like this:
 
- ![](https://github.com/DarthNoobius/emerald--dapp-quests/blob/master/Chapter%204/Images/Day%202%20greeting%20console.png)
+ ![](https://github.com/DarthNoobius/beginner-emerald-dapp-quests/blob/main/Chapter%204/Images/Day%202%20greeting%20console.png)
  greeting console.png
  ```javascript
 import Head from 'next/head'
@@ -76,12 +76,12 @@ export default function Home() {
     </div>
   )
 }
-```  
-
+```
 2a. I deployed a contract called SimpleTest to an account with an address of 0x6c0d53c676256e8c. I want you to make a button that, when clicked, executes a script to read the number variable from that contract. If you're curious, you can see the contract here: https://flow-view-source.com/testnet/account/0x6c0d53c676256e8c/contract/SimpleTest
 + Submit all the code you used to call the script, and the result of the script.
-    ![](https://github.com/DarthNoobius/emerald--dapp-quests/blob/master/Chapter%204/Images/Day%202%20SimpleTest%20button.png)
+    ![](https://github.com/DarthNoobius/beginner-emerald-dapp-quests/blob/main/Chapter%204/Images/Day%202%20SimpleTest%20button.png)
     SimpleTest button.png
+    
  ```javascript
  import Head from 'next/head'
  import styles from '../styles/Home.module.css'
@@ -177,7 +177,7 @@ export default function Home() {
  }
  ```
 2b. Then, I want you to remove the button, and make the script execute every time the page refreshes.  
-    ![](https://github.com/DarthNoobius/emerald--dapp-quests/blob/master/Chapter%204/Images/Day%202%20Simpletest%20without%20button.png)
+    ![](https://github.com/DarthNoobius/beginner-emerald-dapp-quests/blob/main/Chapter%204/Images/Day%202%20Simpletest%20without%20button.png)
     Simpletest without button.png  
 ```javascript
     import Head from 'next/head'
