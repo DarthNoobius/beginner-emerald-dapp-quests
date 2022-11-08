@@ -21,14 +21,14 @@ The prepare phase gains access to the users account using AuthAccount while the 
 
 - Add a transaction that takes in a parameter named myNewNumber and passes it into the updateMyNumber function. Verify that your number changed by running the script again.
 
-![](https://github.com/DarthNoobius/emerald--dapp-quests/blob/master/Chapter%203/Images/Day%202%200x01%20account.png)
+![](https://github.com/DarthNoobius/beginner-emerald-dapp-quests/blob/main/Chapter%203/Images/Day%202%200x01%20account.png)
  0x01 account.png
  
-![](https://github.com/DarthNoobius/emerald--dapp-quests/blob/master/Chapter%203/Images/Day%202%20script%20unchanged.png)
+![](https://github.com/DarthNoobius/beginner-emerald-dapp-quests/blob/main/Chapter%203/Images/Day%202%20script%20unchanged.png)
  Script unchanged.png
  
-![](https://github.com/DarthNoobius/emerald--dapp-quests/blob/master/Chapter%203/Images/Day%202%20script%20changed.png)
+![](https://github.com/DarthNoobius/beginner-emerald-dapp-quests/blob/main/Chapter%203/Images/Day%202%20script%20changed.png)
  Script changed.png 
  
-![](https://github.com/DarthNoobius/emerald--dapp-quests/blob/master/Chapter%203/Images/Day%202%20Transaction%20newNumber.png)
+![](https://github.com/DarthNoobius/beginner-emerald-dapp-quests/blob/main/Chapter%203/Images/Day%202%20Transaction%20newNumber.png)
  Transaction newNumber.png  
