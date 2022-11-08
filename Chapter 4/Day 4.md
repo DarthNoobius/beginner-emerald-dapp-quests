@@ -3,5 +3,5 @@
 
 2. Immediately after you send the transaction, wait for the transaction to be "Sealed" just like we did today. Then, call a script to read the number from the contract. Console log the result.
 
-![](https://github.com/DarthNoobius/emerald--dapp-quests/blob/master/Chapter%204/Images/Day%204%20console.png)
+![](https://github.com/DarthNoobius/beginner-emerald-dapp-quests/blob/main/Chapter%204/Images/Day%204%20console.png)
 console.png
